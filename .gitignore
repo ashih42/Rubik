@@ -1,0 +1,13 @@
+# Ignore EVERYTHING except Whitelist
+/*
+/*/
+
+# Whitelist
+!.gitignore
+!author
+!README.md
+!/Assets/
+!/Docs
+!/ProjectSettings/
+!/Requirements
+!/Screenshots
