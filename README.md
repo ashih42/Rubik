@@ -12,7 +12,7 @@ Recommended screen resolution: 1280 x 768
 
 ## Controls
 
-You can toggle `Face Labels` to see these controls assume the [Western color scheme](https://ruwix.com/the-rubiks-cube/japanese-western-color-schemes/):
+You can toggle `Face Labels` to see the notation follows the [Western color scheme](https://ruwix.com/the-rubiks-cube/japanese-western-color-schemes/):
 * `L` Orange face
 * `R` Red face
 * `D` Yellow face
