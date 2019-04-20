@@ -10,7 +10,7 @@ Recommended screen resolution: 1280 x 768
 
 * [Windows Build](https://github.com/ashih42/Rubik/releases/download/v00/Rubik-Windows-v00.zip)
 
-## Controls
+## Notation
 
 You can toggle `Face Labels` to see the notation follows the [Western color scheme](https://ruwix.com/the-rubiks-cube/japanese-western-color-schemes/):
 * `L` Orange face
@@ -19,6 +19,8 @@ You can toggle `Face Labels` to see the notation follows the [Western color sche
 * `U` White face
 * `B` Blue face
 * `F` Green face
+
+## Controls
 
 ### Camera Controls
 * `Arrow Keys` Rotate entire cube.
